@@ -4,7 +4,7 @@
     <img src="https://avatars.githubusercontent.com/u/127539319?s=200&v=4" width="128" height="auto" style="border-radius: 50%">
 </a>
 
-# Electriqe
+# Bitwrap
 
 Work in progress
 
