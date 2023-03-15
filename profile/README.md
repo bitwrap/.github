@@ -6,7 +6,13 @@
 
 # Bitwrap
 
-Work in progress
+Seamlessly Deploy Your Code with Bitwrap
+
+
+Bitwrap is an all-in-one solution for seamless integration between GitHub and your code. With automatic cloud deployment and much more in future, leave the hassles of deployment to us and focus on what you do the best - developing!
+
+
+Currently in beta
 
 [🔮 Homepage](https://bitwrap.neobrains.me)
 
