@@ -14,6 +14,6 @@ Bitwrap is an all-in-one solution for seamless integration between GitHub and yo
 
 Currently in beta
 
-[🔮 Homepage](https://bitwrap.neobrains.me)
+[🔮 Homepage](https://bitwrap.cloud)
 
 </div>
